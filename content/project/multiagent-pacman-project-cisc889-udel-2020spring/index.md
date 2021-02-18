@@ -3,7 +3,7 @@ title: Multiagent Pacman Project (CISC889 @ Udel, 2020Spring)
 date: 2019-06-30T17:49:42.534Z
 draft: false
 featured: false
-categories:
+tags:
   - Artificial Intelligence
 external_link: https://github.com/hanglearning/ucb-pacman-multiagent-reinforcement
 links:

@@ -1,7 +1,7 @@
 ---
 title: Hang Chen
 role: Computer Science Ph.D. Student
-avatar_filename: profile.png
+avatar_filename: avatar.jpg
 bio: My research interests include distributed systems and and artificial
   intelligence.
 interests:
