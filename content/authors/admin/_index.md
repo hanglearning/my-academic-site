@@ -15,6 +15,26 @@ social:
     link: https://www.linkedin.com/in/chenhang/
     icon_pack: fab
     icon: linkedin
+  - display:
+      header: false
+    icon: github
+    icon_pack: fab
+    link: https://github.com/hanglearning
+  - display:
+      header: false
+    icon_pack: fab
+    icon: researchgate
+    link: https://www.researchgate.net/profile/Hang_Chen47
+  - display:
+      header: false
+    icon_pack: ai
+    icon: google-scholar
+    link: https://scholar.google.com/citations?user=FFiDQ3EAAAAJ&hl=en
+  - display:
+      header: false
+    link: https://www.youtube.com/channel/UCVsK6IkdHhGS_N0YzRjibXg/videos
+    icon_pack: fab
+    icon: youtube
 organizations:
   - name: University of Delaware
     url: https://www.udel.edu/
