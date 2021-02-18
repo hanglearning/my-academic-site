@@ -27,10 +27,15 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Blockchained
+    tag: blockchain
+  - name: Federated Learning
+    tag: fl
+  - name: Artificial Intelligence
+    tag: ai
+  - name: Web Dev
+    tag: web
+  
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

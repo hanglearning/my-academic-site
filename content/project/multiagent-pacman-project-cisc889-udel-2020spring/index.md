@@ -4,7 +4,7 @@ date: 2019-06-30T17:49:42.534Z
 draft: false
 featured: false
 tags:
-  - Artificial Intelligence
+  - ai
 external_link: https://github.com/hanglearning/ucb-pacman-multiagent-reinforcement
 links:
   - url: https://github.com/hanglearning/ucb-pacman-multiagent-reinforcement

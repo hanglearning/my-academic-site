@@ -4,7 +4,7 @@ date: 2017-12-26T18:40:10.078Z
 draft: false
 featured: false
 tags:
-  - Web Dev
+  - web
 external_link: https://github.com/hanglearning/inventory_management_project
 links:
   - url: https://github.com/hanglearning/inventory_management_project
