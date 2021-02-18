@@ -1,87 +1,57 @@
 ---
-title: "An example conference paper"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+abstract: Federated learning (FL) is a promising distributed learning solution
+  that only exchanges model parameters without revealing raw data. However, the
+  centralized architecture of FL is vulnerable to the single point of failure.
+  In addition, FL does not examine the legitimacy of local models, so even a
+  small fraction of malicious devices can disrupt global training. To resolve
+  these robustness issues of FL, in this paper, we propose a blockchain-based
+  decentralized FL framework, termed VBFL, by exploiting two mechanisms in a
+  blockchained architecture. First, we introduced a novel decentralized
+  validation mechanism such that the legitimacy of local model updates is
+  examined by individual validators. Second, we designed a dedicated
+  proof-of-stake consensus mechanism where stake is more frequently rewarded to
+  honest devices, which protects the legitimate local model updates by
+  increasing their chances of dictating the blocks appended to the blockchain.
+  Together, these solutions promote more federation within legitimate devices,
+  enabling robust FL. Our emulation results of the MNIST classification
+  corroborate that with 15% of malicious devices, VBFL achieves 87% accuracy,
+  which is 7.4x higher than Vanilla FL.
+slides: ""
+url_pdf: ""
+publication_types:
+  - "1"
 authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
+  - Hang Chen
+  - Syed Ali Asif
+  - Jihong Park
+  - Chien-Chung Shen
+  - Mehdi Bennis
+author_notes: []
+publication: In *AAAI 2021 Workshop - Towards Robust, Secure and Efficient Machine Learning*
+summary: ""
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+title: Robust Blockchained Federated Learning with Model Validation and
+  Proof-of-Stake Inspired Consensus
 doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+tags: []
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+date: 2021-01-09T18:23:57.215Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
+**[Paper](https://arxiv.org/abs/2101.03300)**
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+**[Code](https://github.com/hanglearning/VBFL)[](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbl81dUdoV3h0NlJfSk5CbXZiMk5rWFFscEhNQXxBQ3Jtc0ttTjNyeG1PTWcwdWVSZjd5ZUctTVgyRS1lRzRQcU9ObUYwLTdFTmFoUmNhbmk0dGVjX0hjUzdON0piN1Q1clNZckpObnFoRUk4UnBFT0V3RE5lTUNWLXhRek9pRlVxM1cyZVJzb2tsMnJQTEw3d2ZYNA&q=https%3A%2F%2Fgithub.com%2Fhanglearning%2FVBFL)**
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LMseEXEITvw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
