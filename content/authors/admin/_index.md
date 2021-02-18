@@ -1,77 +1,37 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Hang Chen
+role: Computer Science Ph.D. Student
+avatar_filename: profile.png
+bio: My research interests include distributed systems and and artificial
+  intelligence.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Distributed Systems
+  - Distributed Ledger Technology (Blockchain)
+  - Artificial Intelligence
+  - Federated Learning
+social:
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/chenhang/
+    icon_pack: fab
+    icon: linkedin
+organizations:
+  - name: University of Delaware
+    url: https://www.udel.edu/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
+    - course: Ph.D. in Computer Science
+      institution: University of Delaware
+      year: 2023
+    - course: B.S. in Computer Science
+      institution: University of Delaware
+      year: 2015
+email: chenhang@udel.edu
+superuser: true
 highlight_name: false
 ---
+I am a first-year M.S. transferred Ph.D. student majoring in Computer Science at the University of Delaware. My academic advisor is [Prof. Chien-Chung Shen](https://www.eecis.udel.edu/~cshen/). My research interests span distributed systems and artificial intelligence, specifically focusing on using the distributed ledger technology (blockchain) to facilitate robust federated learning in various applications. My most recent work *[Robust Blockchained Federated Learning with Model Validation and Proof-of-Stake Inspired Consensus](https://arxiv.org/abs/2101.03300)* is published at *[Workshop 25 Towards Robust, Secure and Efficient Machine Learning of AAAI-21](http://federated-learning.org/rseml2021/)*. I gave a comprehensive talk about this work in the following video (84mins).
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+[![VBFL Talk](https://img.youtube.com/vi/LMseEXEITvw/0.jpg)](https://www.youtube.com/watch?v=LMseEXEITvw)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am now actively looking for an internship, either remote or based in America, for summer 2021. I am currently learning Hyperledger Fabric and Golang, and expect myself to apply them to business solutions. I would appreciate it if you could [send me an email](mailto:hangforjobs@gmail.com) if there are suitable positions related to my research field. See my [CV](https://drive.google.com/file/d/1fnWajpSNLuL-wC8lPRs_4e_ajB66XDcS/view?usp=sharing).
