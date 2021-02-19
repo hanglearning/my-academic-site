@@ -36,8 +36,8 @@ social:
     icon_pack: fab
     icon: youtube
 organizations:
-  - name: University of Delaware
-    url: https://www.udel.edu/
+  - name: Computer & Information Sciences - University of Delaware
+    url: https://www.cis.udel.edu/
 education:
   courses:
     - course: Ph.D. in Computer Science
