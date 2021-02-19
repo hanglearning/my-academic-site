@@ -4,14 +4,14 @@ date: 2017-12-26T18:40:10.078Z
 draft: false
 featured: false
 tags:
-  - web
+  - Web Dev
 external_link: https://github.com/hanglearning/inventory_management_project
 links:
   - url: https://github.com/hanglearning/inventory_management_project
     name: Code
     icon_pack: fab
     icon: github
-  - url: https://www.youtube.com/watch?v=w0Bov93C-DU&list=PLHBKduTta81Oih364I7c2vgnr7WuaAjht&index=3&t=663s&ab_channel=HangChen
+  - url: https://www.youtube.com/watch?v=w0Bov93C-DU
     name: Introduction Video
     icon_pack: fab
     icon: youtube

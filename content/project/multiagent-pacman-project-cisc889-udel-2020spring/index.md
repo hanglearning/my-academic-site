@@ -4,14 +4,14 @@ date: 2019-06-30T17:49:42.534Z
 draft: false
 featured: false
 tags:
-  - ai
+  - Artificial Intelligence
 external_link: https://github.com/hanglearning/ucb-pacman-multiagent-reinforcement
 links:
   - url: https://github.com/hanglearning/ucb-pacman-multiagent-reinforcement
     icon_pack: fab
     icon: github
     name: Code
-  - url: https://www.youtube.com/embed/X_JOLY-A14g
+  - url: https://www.youtube.com/watch?v=X_JOLY-A14g
     name: Presentation
     icon_pack: fab
     icon: youtube

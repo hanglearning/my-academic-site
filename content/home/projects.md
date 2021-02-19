@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 40
 
 title: Projects
 subtitle: ''
@@ -27,14 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Blockchained
-    tag: blockchain
+  - name: Blockchained_App
+    tag: Blockchained_App
   - name: Federated Learning
-    tag: fl
+    tag: Federated Learning
   - name: Artificial Intelligence
-    tag: ai
+    tag: Artificial Intelligence
   - name: Web Dev
-    tag: web
+    tag: Web Dev
   
 
 design:
