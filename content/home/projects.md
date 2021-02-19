@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Blockchained_App
-    tag: Blockchained_App
+  - name: Blockchained App
+    tag: Blockchained App
   - name: Federated Learning
     tag: Federated Learning
   - name: Artificial Intelligence

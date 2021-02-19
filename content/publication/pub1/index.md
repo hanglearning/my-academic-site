@@ -45,7 +45,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: https://img.youtube.com/vi/LMseEXEITvw/0.jpg
-date: 2021-02-18T21:42:22.802Z
+date: 2021-01-09T21:42:22.802Z
 url_slides: "https://docs.google.com/presentation/d/1E6arGCspzfSQMzWcmR7qqDXIeE9DWbbV-xC-hXAeEhU/edit?usp=sharing"
 publishDate: 2021-01-09T00:00:00.000Z
 url_poster: "https://drive.google.com/file/d/1tmO6bFUWXzIhcGD0yLo1V0HHKk2u6gGk/view?usp=sharing"
