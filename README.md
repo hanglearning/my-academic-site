@@ -1,3 +1,9 @@
+This repo hosts the code of my personal academic site - https://chenhang.netlify.app/
+Thanks to wowchemy who made this task easy!
+Below is their automatically generated text when I created my site. You can create your site within minutes using their free services.
+
+---------
+
 <p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
 
 # Academic Template for [Hugo](https://github.com/gohugoio/hugo)
