@@ -11,7 +11,7 @@ headless: true
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
 
 # Order that this section appears on the page.
 weight: 30
