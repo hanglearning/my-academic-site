@@ -36,7 +36,7 @@ social:
     icon_pack: fab
     icon: youtube
 organizations:
-  - name: Computer & Information Sciences - University of Delaware
+  - name: Dept. of CIS, University of Delaware
     url: https://www.cis.udel.edu/
 education:
   courses:
