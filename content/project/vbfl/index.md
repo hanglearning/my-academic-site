@@ -6,6 +6,7 @@ featured: false
 tags:
   - Blockchained App
   - Federated Learning
+  - Model Validation
 external_link: https://github.com/hanglearning/VBFL
 links:
   - url: https://arxiv.org/abs/2101.03300
