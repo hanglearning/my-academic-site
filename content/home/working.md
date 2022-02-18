@@ -11,6 +11,5 @@ design:
 ---
 1. Designing Blockchain-based Lottery Ticket Federated Learning System
 2. Extend BFRT to predict farther traffic flow (i.e., farther than 5-min step) and emulate the experiments on Raspberry Pis
-3. Studying and designing Zero-knowledge BFT consensus
-4. Designing DAG-based git and gossip learning system
-5. Possible research in blockchain oracles
+3. Designing DAG-based git and gossip learning system
+4. Possible research in blockchain oracles
