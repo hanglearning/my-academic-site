@@ -1,8 +1,9 @@
 ---
-title: Hang Chen
+title: Hang Chen (He/Him)
 role: Computer Science Ph.D. Student
 avatar_filename: avatar.jpg
-bio: My research interests span distributed ledger technology and distributed machine learning.
+bio: My research interests span distributed ledger technology and distributed
+  machine learning.
 interests:
   - Distributed Systems
   - Distributed Ledger Technology (Blockchain)
