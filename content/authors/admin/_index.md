@@ -39,9 +39,6 @@ organizations:
     url: https://www.cis.udel.edu/
 education:
   courses:
-    - course: Research Intern
-      institution: SupraOracles
-      year: 2020
     - course: Ph.D. in Computer Science
       institution: University of Delaware
       year: 2023
