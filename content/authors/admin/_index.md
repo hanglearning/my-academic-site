@@ -39,18 +39,23 @@ organizations:
     url: https://www.cis.udel.edu/
 education:
   courses:
+    - course: Research Intern
+      institution: SupraOracles
+      year: 2020
     - course: Ph.D. in Computer Science
       institution: University of Delaware
       year: 2023
     - course: B.S. in Computer Science
       institution: University of Delaware
       year: 2015
-email: chenhang@udel.edu
+email: ""
 superuser: true
 highlight_name: false
 ---
 I am a fourth-year Ph.D. student majoring in Computer Science at the University of Delaware. My academic advisor is [Prof. Chien-Chung Shen](https://www.eecis.udel.edu/~cshen/). I am working at the intersection of distributed ledger technology (i.e., blockchain) and distributed machine learning (e.g., federated learning, gossip learning). My primary focus is to design consensus and dedicated architecture to enable more robust and trustworthy distributed learning on top of blockchained architectures. The goal of the architectures typically includes data privacy-preserving, model legitimacy cross-check, model evolvement, model ownership claim, and fairness to the working devices while not degrading the performance of learning or even improving it. My most notable work *[Robust Blockchained Federated Learning with Model Validation and Proof-of-Stake Inspired Consensus](https://arxiv.org/abs/2101.03300)* is published at *[Workshop 25 Towards Robust, Secure and Efficient Machine Learning of AAAI-21](http://federated-learning.org/rseml2021/)*. I gave a comprehensive talk about this work in this [video](https://www.youtube.com/watch?v=LMseEXEITvw&list=PLHBKduTta81Oih364I7c2vgnr7WuaAjht&index=2&ab_channel=HangChen).
 
+I started a new position as a research intern at SupraOracles in July 2022.
+
 See my [CV](https://drive.google.com/file/d/1JsQnE-mJzUE1X3-G5HL34ZvR4TkXHJlY/view?usp=sharing). 
 
-Last Update of this Page: May 2022.
+Last Update of this Page: July 2022.
