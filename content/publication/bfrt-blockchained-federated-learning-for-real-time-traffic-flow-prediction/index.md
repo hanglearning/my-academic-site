@@ -11,8 +11,25 @@ authors:
   - Chien-Chung Shen
 author_notes:
   - I share equal authorship with Collin Meese in this work.
+doi: 10.1109/CCGrid54584.2022.00041
 publication: CCGrid ’22
-abstract: ""
+abstract: Accurate real-time traffic flow prediction can be leveraged to relieve
+  traffic congestion and associated negative impacts. The existing centralized
+  deep learning methodologies have demonstrated high prediction accuracy, but
+  suffer from privacy concerns due to the sensitive nature of transportation
+  data. Moreover, the emerging literature on traffic prediction by distributed
+  learning approaches, including federated learning, primarily focuses on
+  offline learning. This paper proposes BFRT, a blockchained federated learning
+  architecture for online traffic flow prediction using real-time data and edge
+  computing. The proposed approach provides privacy for the underlying data,
+  while enabling decentralized model training in real-time at the Internet of
+  Vehicles edge. We federate GRU and LSTM models and conduct extensive
+  experiments with dynamically collected arterial traffic data shards. We
+  prototype the proposed permissioned blockchain network on Hyperledger Fabric
+  and perform extensive tests using virtual machines to simulate the edge nodes.
+  Experimental results outperform the centralized models, highlighting the
+  feasibility of our approach for facili-tating privacy-preserving and
+  decentralized real-time traffic flow prediction.
 draft: false
 featured: false
 image:
@@ -21,4 +38,3 @@ image:
   preview_only: false
 date: 2022-02-17T20:05:15.956Z
 ---
-Accepted on 2/16/22 but not published yet.
