@@ -31,12 +31,12 @@ abstract: Accurate real-time traffic flow prediction can be leveraged to relieve
   feasibility of our approach for facili-tating privacy-preserving and
   decentralized real-time traffic flow prediction.
 draft: false
+url_pdf: https://ieeexplore.ieee.org/document/9826108
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-02-17T20:05:15.956Z
-url_pdf: "https://ieeexplore.ieee.org/document/9826108"
-url_code: "https://github.com/hanglearning/BFRT"
+date: 2022-07-22T15:36:26.078Z
+url_code: https://github.com/hanglearning/BFRT
 ---
