@@ -28,6 +28,8 @@ abstract: Accurate real-time traffic flow prediction can be leveraged to relieve
   Experimental results outperform the centralized models, highlighting the
   feasibility of our approach for facilitating privacy-preserving and
   decentralized real-time traffic flow prediction.
+url_code: "https://github.com/hanglearning/BFRT"
+url_pdf: "https://ieeexplore.ieee.org/document/9826108/authors#authors"
 draft: false
 featured: true
 image:
