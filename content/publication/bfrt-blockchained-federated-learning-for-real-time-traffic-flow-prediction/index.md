@@ -29,7 +29,7 @@ abstract: Accurate real-time traffic flow prediction can be leveraged to relieve
   feasibility of our approach for facilitating privacy-preserving and
   decentralized real-time traffic flow prediction.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
