@@ -41,11 +41,11 @@ education:
   courses:
     - course: Ph.D. in Computer Science
       institution: University of Delaware
-      year: 2023
+      year: 2024
     - course: B.S. in Computer Science
       institution: University of Delaware
       year: 2015
-email: ""
+email: hangforjobs@gmail.com
 superuser: true
 highlight_name: false
 ---
