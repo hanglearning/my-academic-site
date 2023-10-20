@@ -21,6 +21,11 @@ social:
     link: https://github.com/hanglearning
   - display:
       header: false
+    link: https://stackoverflow.com/users/2850815/hang-chen
+    icon_pack: ai
+    icon: stackoverflow
+  - display:
+      header: false
     icon_pack: fab
     icon: researchgate
     link: https://www.researchgate.net/profile/Hang_Chen47
